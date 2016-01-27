@@ -6,10 +6,10 @@
 
 html {
   box-sizing: border-box;
-    -moz-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 *, *::before, *::after {
@@ -17,40 +17,40 @@ html {
 }
 
 body {
-	margin: 0;
+  margin: 0;
 }
 
 .img-flex {
-	display: block;
-	width: 100%;
+  display: block;
+  width: 100%;
 }
 
 .argyle {
-	display: none;
+  display: none;
 }
 
 .argyle:target {
-	display: block;
+  display: block;
 }
 
 
-i{
-	display: block;
-	width: 30px;
-	height: 30px;
-	border: 6px solid #d0d0d0;
-	border-radius: 100px;
+i {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border: 6px solid #d0d0d0;
+  border-radius: 100px;
 }
 
 .toggle {
-	display: inline-block;
+  display: inline-block;
 }
 
-.toggle:hover{
-	background-color: #d0d0d0;
+.toggle:hover {
+  background-color: #d0d0d0;
 }
 
 .toggles {
-	width: 200px;
-	margin: 2rem auto;
+  width: 200px;
+  margin: 2rem auto;
 }
