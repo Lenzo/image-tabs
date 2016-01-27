@@ -16,20 +16,20 @@ html {
   box-sizing: inherit;
 }
 
-body{
+body {
 	margin: 0;
 }
 
-.img-flex{
+.img-flex {
 	display: block;
 	width: 100%;
 }
 
-.argyle{
+.argyle {
 	display: none;
 }
 
-.argyle:target{
+.argyle:target {
 	display: block;
 }
 
@@ -42,7 +42,7 @@ i{
 	border-radius: 100px;
 }
 
-.toggle{
+.toggle {
 	display: inline-block;
 }
 
@@ -50,7 +50,7 @@ i{
 	background-color: #d0d0d0;
 }
 
-.toggles{
+.toggles {
 	width: 200px;
 	margin: 2rem auto;
 }
