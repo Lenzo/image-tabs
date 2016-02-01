@@ -6,34 +6,34 @@
 
 html {
   box-sizing: border-box;
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-body {
+body{
   margin: 0;
 }
 
-.img-flex {
+.img-flex{
   display: block;
   width: 100%;
 }
 
-.argyle {
+.argyle{
   display: none;
 }
 
-.argyle:target {
+.argyle:target{
   display: block;
 }
 
-i {
+i{
   display: block;
   width: 30px;
   height: 30px;
@@ -41,15 +41,15 @@ i {
   border-radius: 100px;
 }
 
-.toggle {
+.toggle{
   display: inline-block;
 }
 
-.toggle:hover {
+.toggle:hover{
   background-color: #d0d0d0;
 }
 
-.toggles {
+.toggles{
   width: 200px;
   margin: 2rem auto;
 }
